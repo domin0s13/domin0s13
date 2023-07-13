@@ -1,5 +1,5 @@
 ## 🙋 Hello!
-From this side domin0s and I'm a beginner developer.  Currently working on a <a href="https://github.com/domin0s13/kalkulatorMIP-v1.1.1">calculatorMIP 2.0</a> 🤖
+From this side domin0s and I'm a beginner developer.  Currently working on a mystery project 🤖
 ## 💻 Languages 
 * C#
 * HTML5
