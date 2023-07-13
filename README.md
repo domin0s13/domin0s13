@@ -1,16 +1,16 @@
-### Hi there 👋
+## 🙋 Hello!
+From this side domin0s and I'm a beginner developer.  Currently working on a <a href="https://github.com/domin0s13/kalkulatorMIP-v1.1.1">calculatorMIP 2.0</a> 🤖
+## 💻 Languages 
+* C#
+* HTML
+* CSS3
+* JavaScript 
+* TypeScript
+## 🛠️ IDE
+* Visual Studio (for C#)
+* Visual Studio Code (for WEB)
 
-<!--
-**domin0s13/domin0s13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
