@@ -6,7 +6,7 @@ From this side domin0s and I'm a beginner developer.  Currently working on a <a 
 * CSS3
 * JavaScript 
 * TypeScript
-## 🛠️ IDE
+## 🛠️ Workspace
 * Visual Studio (for C#)
 * Visual Studio Code (for WEB)
 ## 📨 Contact
